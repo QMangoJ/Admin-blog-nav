@@ -1,0 +1,22 @@
+2019-11-27 00:00:02,212 INFO 25117 [egg-logrotator] app logger reload: got log-reload message
+2019-11-27 04:30:01,189 INFO 25117 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-11-27 04:30:01,191 INFO 25117 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-11-27 10:22:16,063 INFO 946 [egg:logger] init all loggers with options: {"dir":"/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-27 10:22:16,086 INFO 946 [egg-multipart] stream mode enable
+2019-11-27 10:22:16,087 INFO 946 [egg-mysql] connecting root@localhost:3306/nav
+2019-11-27 10:22:16,203 INFO 946 [egg-static] starting static serve /public/ -> /Users/alanj/Desktop/myprojects/egg-demo/app/public
+2019-11-27 10:22:16,205 INFO 946 [egg-security] use methodnoallow middleware
+2019-11-27 10:22:16,206 INFO 946 [egg-security] use noopen middleware
+2019-11-27 10:22:16,206 INFO 946 [egg-security] use nosniff middleware
+2019-11-27 10:22:16,207 INFO 946 [egg-security] use xssProtection middleware
+2019-11-27 10:22:16,207 INFO 946 [egg-security] use xframe middleware
+2019-11-27 10:22:16,207 INFO 946 [egg-security] use dta middleware
+2019-11-27 10:22:16,207 INFO 946 [egg-security] compose 6 middlewares into one security middleware
+2019-11-27 10:22:16,219 INFO 946 [egg:core] dump config after load, 4ms
+2019-11-27 10:22:16,235 INFO 946 [egg-watcher:application] watcher start success
+2019-11-27 10:22:16,238 INFO 946 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 27 2019 10:22:16 GMT+0800 (中国标准时间)
+2019-11-27 10:22:16,243 INFO 946 [egg:core] dump config after ready, 4ms
+2019-11-28 00:00:00,693 INFO 946 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-10-27, egg-agent.log.2019-10-27, egg-demo-web.log.2019-10-27, egg-schedule.log.2019-10-27, egg-web.log.2019-10-27
+2019-11-28 00:00:00,699 INFO 946 [egg-logrotator] clean all log before 31 days
+2019-11-28 00:00:01,685 INFO 946 [egg-logrotator] broadcast log-reload
+2019-11-28 00:00:01,686 INFO 946 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-11-27","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-11-27","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-11-27","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-11-27","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-11-27"]

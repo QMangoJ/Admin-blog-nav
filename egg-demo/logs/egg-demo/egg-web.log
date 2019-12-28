@@ -1,0 +1,9 @@
+2019-12-28 11:04:54,933 INFO 60807 [egg-logrotator] app logger reload: got log-reload message
+2019-12-28 12:05:06,425 WARN 60807 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-28 12:05:06,426 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 14:52:52,295 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 16:10:46,400 INFO 60807 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-28 16:10:46,404 INFO 60807 [-/127.0.0.1/-/6ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-28 16:49:41,340 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 21:07:58,452 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 21:20:56,354 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again

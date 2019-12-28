@@ -1,0 +1,150 @@
+2019-12-27 21:17:26,005 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 300955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 21:23:51,512 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 385403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 21:38:44,629 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 893114ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 21:53:20,732 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 876074ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 21:56:17,015 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 156275ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 23:11:41,955 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 324157ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 23:28:52,259 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 70070ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-27 23:48:44,545 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 1151827ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 00:09:49,817 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 1265270ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 00:31:05,373 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 1275552ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 03:17:39,289 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 9993668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 05:05:46,613 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 6487147ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 06:53:58,965 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 6492329ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 08:30:13,771 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 5774790ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+
+2019-12-28 09:49:56,170 ERROR 60806 nodejs.ClusterClientNoResponseError: client no response in 4782391ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 60806
+hostname: AlanJdeMacBook-Pro.local
+

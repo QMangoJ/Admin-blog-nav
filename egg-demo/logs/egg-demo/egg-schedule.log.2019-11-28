@@ -1,0 +1,9 @@
+2019-11-28 04:30:00,898 INFO 942 [Timer] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86399107ms at 2019-11-29 04:30:00.005
+2019-11-28 04:30:00,893 INFO 946 [Job#1574886600892655576836044161] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2019-11-28 04:30:00,900 INFO 946 [Job#1574886600892655576836044161] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 6ms
+2019-11-29 00:00:01,190 INFO 946 [Job#1574956801182135757127779742] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-11-29 00:00:01,205 INFO 946 [Job#1574956801182135757127779742] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 14ms
+2019-11-29 00:00:01,190 INFO 942 [Timer] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86398816ms at 2019-11-30 00:00:00.006
+2019-11-29 00:00:02,184 INFO 946 [Job#1574956802183135758131978092] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-11-29 00:00:02,188 INFO 946 [Job#1574956802183135758131978092] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms
+2019-11-29 00:00:02,187 INFO 942 [Timer] /Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86398817ms at 2019-11-30 00:00:01.004

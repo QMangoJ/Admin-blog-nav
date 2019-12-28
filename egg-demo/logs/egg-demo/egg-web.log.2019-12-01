@@ -1,0 +1,50 @@
+2019-11-29 00:00:02,189 INFO 946 [egg-logrotator] app logger reload: got log-reload message
+2019-11-29 04:30:01,187 INFO 946 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-11-29 04:30:01,190 INFO 946 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-11-29 18:38:41,178 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 19:08:37,647 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 20:18:08,818 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 20:32:57,942 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 20:38:04,357 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 20:53:08,547 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-11-29 20:53:08,548 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 22:41:49,067 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-29 22:48:23,950 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 01:33:32,992 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-11-30 01:33:32,994 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 02:20:47,415 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 03:26:24,466 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-11-30 03:26:24,473 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 05:14:38,603 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-11-30 05:14:38,609 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 07:02:49,432 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 08:30:13,693 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 12:06:14,241 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-11-30 12:21:45,192 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-11-30 12:21:45,193 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 01:30:17,334 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 01:45:05,754 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 01:45:05,771 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 02:59:05,453 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 02:59:05,584 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 04:47:20,868 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 08:11:18,493 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 08:11:18,493 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 11:47:36,892 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 11:47:36,892 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 15:23:34,410 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 15:23:34,410 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 17:11:37,357 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 17:11:37,357 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 18:59:46,345 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-01 20:12:54,341 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-01 20:12:54,341 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-02 00:15:20,390 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-02 00:30:39,994 WARN 946 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-02 00:30:40,003 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-02 09:15:07,764 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-02 09:27:16,280 WARN 946 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-02 13:14:15,580 INFO 946 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-10-29, common-error.log.2019-10-30, common-error.log.2019-10-31, egg-agent.log.2019-10-29, egg-agent.log.2019-10-30, egg-agent.log.2019-10-31, egg-demo-web.log.2019-10-29, egg-demo-web.log.2019-10-30, egg-demo-web.log.2019-10-31, egg-schedule.log.2019-10-29, egg-schedule.log.2019-10-30, egg-schedule.log.2019-10-31, egg-web.log.2019-10-29, egg-web.log.2019-10-30, egg-web.log.2019-10-31
+2019-12-02 13:14:15,589 INFO 946 [egg-logrotator] clean all log before 31 days
+2019-12-02 13:14:16,579 INFO 946 [egg-logrotator] broadcast log-reload
+2019-12-02 13:14:16,579 INFO 946 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-12-01","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-01","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-12-01","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-01","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-12-01"]

@@ -1,0 +1,43 @@
+2019-12-06 10:25:09,645 INFO 3944 [egg-logrotator] app logger reload: got log-reload message
+2019-12-06 12:13:55,767 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-06 15:00:44,594 INFO 3944 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-06 15:00:44,597 INFO 3944 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-06 20:13:33,607 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 00:45:06,958 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-07 00:45:06,958 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 02:06:00,255 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-07 02:06:00,360 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 03:54:10,167 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 05:42:21,557 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 07:30:32,620 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 08:08:48,189 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 09:00:07,693 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-07 09:00:07,700 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 14:52:23,559 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 19:23:38,734 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 20:47:54,969 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 21:17:44,490 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 21:47:37,966 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-07 21:47:37,966 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 22:21:43,666 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 22:34:24,108 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-07 22:34:24,108 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 22:59:54,027 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 23:09:45,921 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-07 23:46:57,997 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 00:03:50,324 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-08 00:03:50,325 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 01:30:08,112 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 02:52:01,701 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-08 02:52:01,722 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 04:40:21,064 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 06:18:07,784 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 08:06:08,619 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 09:54:10,689 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 12:03:40,746 WARN 3944 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-08 12:03:40,747 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 12:47:57,991 WARN 3944 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-08 13:19:34,766 INFO 3944 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-11-05, common-error.log.2019-11-06, egg-agent.log.2019-11-05, egg-agent.log.2019-11-06, egg-demo-web.log.2019-11-05, egg-demo-web.log.2019-11-06, egg-schedule.log.2019-11-05, egg-schedule.log.2019-11-06, egg-web.log.2019-11-05, egg-web.log.2019-11-06
+2019-12-08 13:19:34,776 INFO 3944 [egg-logrotator] clean all log before 31 days
+2019-12-08 13:19:35,729 INFO 3944 [egg-logrotator] broadcast log-reload
+2019-12-08 13:19:35,729 INFO 3944 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-12-07","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-07","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-12-07","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-07","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-12-07"]

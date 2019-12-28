@@ -1,0 +1,134 @@
+2019-12-11 10:54:43,019 INFO 6519 [egg-logrotator] agent logger reload: got log-reload message
+2019-12-11 14:03:17,304 INFO 6519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/alanj/Desktop/myprojects/egg-demo/app/public/img/r11qg1vqjn1576044197193zyb-logo.jpg","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":14820000,"size":40975,"blocks":88,"atimeMs":1576044197195.3057,"mtimeMs":1576044197196.387,"ctimeMs":1576044197196.387,"birthtimeMs":1576044197195.3057,"atime":"2019-12-11T06:03:17.195Z","mtime":"2019-12-11T06:03:17.196Z","ctime":"2019-12-11T06:03:17.196Z","birthtime":"2019-12-11T06:03:17.195Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-12-11 14:04:30,783 INFO 6519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/alanj/Desktop/myprojects/egg-demo/app/public/img/e88qd9t04ll1576044270670action.jpg","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":14820215,"size":24594,"blocks":56,"atimeMs":1576044270671.2747,"mtimeMs":1576044270671.6772,"ctimeMs":1576044270671.6772,"birthtimeMs":1576044270671.2747,"atime":"2019-12-11T06:04:30.671Z","mtime":"2019-12-11T06:04:30.672Z","ctime":"2019-12-11T06:04:30.672Z","birthtime":"2019-12-11T06:04:30.671Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-12-11 15:27:59,212 INFO 6519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/alanj/Desktop/myprojects/egg-demo/app/public/img/4kj4yrn61va1561118799849yellow.jpg","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2795017,"size":621779,"blocks":1216,"atimeMs":1574823946237.6533,"mtimeMs":1561118799853.6663,"ctimeMs":1576049279161.254,"birthtimeMs":1561118799850.1665,"atime":"2019-11-27T03:05:46.238Z","mtime":"2019-06-21T12:06:39.854Z","ctime":"2019-12-11T07:27:59.161Z","birthtime":"2019-06-21T12:06:39.850Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-12-11 20:35:29,206 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 240759ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-11 20:51:22,725 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 953515ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-11 20:52:43,249 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 60759ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-11 23:03:46,063 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 81040ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-11 23:15:32,328 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 126140ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 01:31:19,028 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 2766962ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 02:37:46,742 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 3987685ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 04:25:58,604 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 6491825ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 06:14:10,641 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 6491997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 08:30:04,868 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 8154168ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 09:02:30,326 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 1945434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 09:27:56,075 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 1505736ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+
+2019-12-12 09:31:21,645 ERROR 6519 nodejs.ClusterClientNoResponseError: client no response in 185563ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/alanj/Desktop/myprojects/egg-demo/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 6519
+hostname: localhost
+

@@ -1,0 +1,277 @@
+{
+  "keys": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+      "useSession": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+    "autoFields": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+      "port": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+      "user": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+      "password": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+      "database": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js"
+    },
+    "app": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+    "agent": "/Users/alanj/Desktop/myprojects/nav/egg-demo/config/config.default.js",
+    "default": {
+      "database": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "name": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "version": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "description": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "main": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "license": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "await-stream-ready": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "egg": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "stream-wormhole": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "env": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "level": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "port": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg/config/config.default.js"
+}

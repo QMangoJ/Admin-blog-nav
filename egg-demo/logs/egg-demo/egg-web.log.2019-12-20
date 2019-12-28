@@ -1,0 +1,27 @@
+2019-12-20 11:01:58,767 INFO 46708 [egg-logrotator] app logger reload: got log-reload message
+2019-12-20 15:11:28,096 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:21:52,791 WARN 46708 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 15:21:52,791 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:27:45,026 WARN 46708 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 15:27:45,027 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:33:46,742 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:35:25,050 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:38:10,130 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:45:59,461 INFO 46708 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-20 15:45:59,469 INFO 46708 [-/127.0.0.1/-/11ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-20 15:58:05,503 WARN 46708 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 15:58:05,503 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 16:04:17,278 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 16:07:38,238 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 16:12:59,924 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 21:57:45,377 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 22:12:47,151 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 22:14:38,065 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 22:21:29,323 WARN 46708 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 22:21:29,323 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-21 02:06:06,944 WARN 46708 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-21 02:06:06,945 WARN 46708 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-21 02:06:11,768 INFO 46708 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-11-19, egg-agent.log.2019-11-19, egg-demo-web.log.2019-11-19, egg-schedule.log.2019-11-19, egg-web.log.2019-11-19
+2019-12-21 02:06:11,772 INFO 46708 [egg-logrotator] clean all log before 31 days
+2019-12-21 02:06:12,499 INFO 46708 [egg-logrotator] broadcast log-reload
+2019-12-21 02:06:12,499 INFO 46708 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-12-20","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-20","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-12-20","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-20","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-12-20"]

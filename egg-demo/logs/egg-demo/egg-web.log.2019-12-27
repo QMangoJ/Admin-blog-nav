@@ -1,0 +1,41 @@
+2019-12-27 00:00:02,197 INFO 94951 [egg-logrotator] app logger reload: got log-reload message
+2019-12-27 04:30:01,181 INFO 94951 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-27 04:30:01,185 INFO 94951 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/nav/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-27 09:41:56,915 INFO 60807 [egg:logger] init all loggers with options: {"dir":"/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-27 09:41:56,938 INFO 60807 [egg-multipart] stream mode enable
+2019-12-27 09:41:56,939 INFO 60807 [egg-mysql] connecting root@localhost:3306/nav
+2019-12-27 09:41:57,062 INFO 60807 [egg-static] starting static serve /public/ -> /Users/alanj/Desktop/myprojects/nav/egg-demo/app/public
+2019-12-27 09:41:57,065 INFO 60807 [egg-security] use methodnoallow middleware
+2019-12-27 09:41:57,065 INFO 60807 [egg-security] use noopen middleware
+2019-12-27 09:41:57,066 INFO 60807 [egg-security] use nosniff middleware
+2019-12-27 09:41:57,067 INFO 60807 [egg-security] use xssProtection middleware
+2019-12-27 09:41:57,067 INFO 60807 [egg-security] use xframe middleware
+2019-12-27 09:41:57,067 INFO 60807 [egg-security] use dta middleware
+2019-12-27 09:41:57,067 INFO 60807 [egg-security] compose 6 middlewares into one security middleware
+2019-12-27 09:41:57,084 INFO 60807 [egg:core] dump config after load, 5ms
+2019-12-27 09:41:57,108 INFO 60807 [egg-watcher:application] watcher start success
+2019-12-27 09:41:57,121 INFO 60807 [egg-mysql] instance[0] status OK, rds currentTime: Fri Dec 27 2019 09:41:57 GMT+0800 (中国标准时间)
+2019-12-27 09:41:57,126 INFO 60807 [egg:core] dump config after ready, 4ms
+2019-12-27 21:17:26,026 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 21:23:51,512 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 21:38:44,629 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 21:53:20,732 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 21:56:17,022 WARN 60807 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-27 21:56:17,022 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 23:11:41,955 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 23:28:52,259 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-27 23:48:44,545 WARN 60807 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-27 23:48:44,545 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 00:09:49,817 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 00:31:05,373 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 03:17:39,267 WARN 60807 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-28 03:17:39,367 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 05:05:46,595 WARN 60807 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-28 05:05:46,623 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 06:53:58,965 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 08:30:13,772 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 09:49:56,170 WARN 60807 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-28 11:04:54,043 INFO 60807 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo files: common-error.log.2019-11-26, egg-agent.log.2019-11-26, egg-demo-web.log.2019-11-26, egg-schedule.log.2019-11-26, egg-web.log.2019-11-26
+2019-12-28 11:04:54,049 INFO 60807 [egg-logrotator] clean all log before 31 days
+2019-12-28 11:04:54,928 INFO 60807 [egg-logrotator] broadcast log-reload
+2019-12-28 11:04:54,928 INFO 60807 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/common-error.log.2019-12-27","/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-27","/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-web.log.2019-12-27","/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-27","/Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/nav/egg-demo/logs/egg-demo/egg-agent.log.2019-12-27"]

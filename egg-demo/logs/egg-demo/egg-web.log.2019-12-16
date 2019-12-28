@@ -1,0 +1,66 @@
+2019-12-13 11:24:50,470 INFO 969 [egg-logrotator] app logger reload: got log-reload message
+2019-12-13 15:54:49,674 INFO 969 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-13 15:54:49,677 INFO 969 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-13 19:24:07,014 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-13 19:49:17,953 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-13 19:54:54,059 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-13 20:09:52,871 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-13 20:32:41,099 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-13 23:46:08,093 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 00:45:07,933 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 01:40:09,101 WARN 969 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-14 01:40:09,106 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 03:28:19,104 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 05:16:31,911 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 07:04:44,809 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 10:26:54,492 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-14 11:55:01,671 WARN 969 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 10:17:18,379 INFO 15395 [egg:logger] init all loggers with options: {"dir":"/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 10:17:18,413 INFO 15395 [egg-multipart] stream mode enable
+2019-12-16 10:17:18,414 INFO 15395 [egg-mysql] connecting root@localhost:3306/nav
+2019-12-16 10:17:18,515 INFO 15395 [egg-static] starting static serve /public/ -> /Users/alanj/Desktop/myprojects/egg-demo/app/public
+2019-12-16 10:17:18,517 INFO 15395 [egg-security] use methodnoallow middleware
+2019-12-16 10:17:18,517 INFO 15395 [egg-security] use noopen middleware
+2019-12-16 10:17:18,517 INFO 15395 [egg-security] use nosniff middleware
+2019-12-16 10:17:18,518 INFO 15395 [egg-security] use xssProtection middleware
+2019-12-16 10:17:18,518 INFO 15395 [egg-security] use xframe middleware
+2019-12-16 10:17:18,518 INFO 15395 [egg-security] use dta middleware
+2019-12-16 10:17:18,518 INFO 15395 [egg-security] compose 6 middlewares into one security middleware
+2019-12-16 10:17:18,530 INFO 15395 [egg:core] dump config after load, 4ms
+2019-12-16 10:17:18,547 INFO 15395 [egg-watcher:application] watcher start success
+2019-12-16 10:17:18,612 INFO 15395 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 16 2019 10:17:18 GMT+0800 (中国标准时间)
+2019-12-16 10:17:18,620 INFO 15395 [egg:core] dump config after ready, 6ms
+2019-12-16 12:18:56,903 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 12:24:58,549 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 12:31:22,188 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 12:37:03,947 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 20:03:07,186 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 20:18:08,997 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 20:23:44,918 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-16 20:23:44,919 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 21:13:04,708 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-16 21:13:04,708 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 22:03:17,742 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 22:15:44,751 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 22:31:09,193 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-16 22:48:00,949 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-16 22:48:00,950 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 01:08:49,704 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-17 01:08:49,704 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 02:07:06,930 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-17 02:07:06,942 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 03:02:33,605 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 04:50:46,435 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 06:38:59,095 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 08:30:06,093 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-17 08:30:06,097 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 09:00:59,214 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 09:15:58,641 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 09:46:00,540 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 09:50:39,597 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 09:53:00,047 WARN 15395 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-17 09:53:00,047 WARN 15395 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-17 11:48:05,135 INFO 15395 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-11-12, common-error.log.2019-11-13, common-error.log.2019-11-14, egg-agent.log.2019-11-12, egg-agent.log.2019-11-13, egg-agent.log.2019-11-14, egg-demo-web.log.2019-11-12, egg-demo-web.log.2019-11-13, egg-demo-web.log.2019-11-14, egg-schedule.log.2019-11-12, egg-schedule.log.2019-11-13, egg-schedule.log.2019-11-14, egg-web.log.2019-11-12, egg-web.log.2019-11-13, egg-web.log.2019-11-14
+2019-12-17 11:48:05,161 INFO 15395 [egg-logrotator] clean all log before 31 days
+2019-12-17 11:48:06,047 INFO 15395 [egg-logrotator] broadcast log-reload
+2019-12-17 11:48:06,047 INFO 15395 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-12-16","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-16","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-12-16","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-16","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-12-16"]

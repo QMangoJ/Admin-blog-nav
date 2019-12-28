@@ -1,0 +1,12 @@
+2019-11-27 00:00:02,216 INFO 25113 [egg-logrotator] agent logger reload: got log-reload message
+2019-11-27 10:22:15,513 INFO 942 [egg:logger] init all loggers with options: {"dir":"/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-11-27 10:22:15,525 INFO 942 [egg:core] dump config after load, 5ms
+2019-11-27 10:22:15,568 INFO 942 [egg-watcher] Start watching: ["/Users/alanj/Desktop/myprojects/egg-demo/app","/Users/alanj/Desktop/myprojects/egg-demo/config","/Users/alanj/Desktop/myprojects/egg-demo/mocks","/Users/alanj/Desktop/myprojects/egg-demo/mocks_proxy","/Users/alanj/Desktop/myprojects/egg-demo/app.js"]
+2019-11-27 10:22:15,568 INFO 942 [egg-watcher] Start watching: "/Users/alanj/Desktop/myprojects/egg-demo/app"
+2019-11-27 10:22:15,569 INFO 942 [egg-watcher] Start watching: "/Users/alanj/Desktop/myprojects/egg-demo/config"
+2019-11-27 10:22:15,569 INFO 942 [egg-watcher] Start watching: "/Users/alanj/Desktop/myprojects/egg-demo/mocks"
+2019-11-27 10:22:15,569 INFO 942 [egg-watcher] Start watching: "/Users/alanj/Desktop/myprojects/egg-demo/mocks_proxy"
+2019-11-27 10:22:15,569 INFO 942 [egg-watcher] Start watching: "/Users/alanj/Desktop/myprojects/egg-demo/app.js"
+2019-11-27 10:22:15,569 INFO 942 [egg-watcher:agent] watcher start success
+2019-11-27 10:22:15,579 INFO 942 [egg:core] dump config after ready, 3ms
+2019-11-27 11:05:45,995 INFO 942 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/alanj/Desktop/myprojects/egg-demo/app/public/img/4kj4yrn61va1561118799849yellow.jpg","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":2795017,"size":621779,"blocks":1216,"atimeMs":1570759559154.3037,"mtimeMs":1561118799853.6663,"ctimeMs":1574823945881.8345,"birthtimeMs":1561118799850.1665,"atime":"2019-10-11T02:05:59.154Z","mtime":"2019-06-21T12:06:39.854Z","ctime":"2019-11-27T03:05:45.882Z","birthtime":"2019-06-21T12:06:39.850Z"},"remove":false,"isDirectory":false,"isFile":true}

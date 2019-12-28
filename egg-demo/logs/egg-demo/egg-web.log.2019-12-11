@@ -1,0 +1,25 @@
+2019-12-11 10:54:43,017 INFO 6523 [egg-logrotator] app logger reload: got log-reload message
+2019-12-11 15:24:42,238 INFO 6523 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/ch/01ss0xr940j0ljqky_rvwvbh0000gn/T/egg-multipart-tmp/egg-demo"
+2019-12-11 15:24:42,241 INFO 6523 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/alanj/Desktop/myprojects/egg-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-11 20:35:29,203 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-11 20:51:22,723 WARN 6523 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-11 20:51:22,723 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-11 20:52:43,248 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-11 23:03:46,063 WARN 6523 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-11 23:03:46,063 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-11 23:15:32,328 WARN 6523 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-11 23:15:32,328 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 01:31:19,019 WARN 6523 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-12 01:31:19,022 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 02:37:46,741 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 04:25:58,604 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 06:14:10,641 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 08:30:04,876 WARN 6523 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-12 08:30:04,878 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 09:02:30,325 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 09:27:56,075 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 09:31:21,645 WARN 6523 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-12 10:19:39,896 INFO 6523 [egg-logrotator] start remove /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo files: common-error.log.2019-11-10, egg-agent.log.2019-11-10, egg-demo-web.log.2019-11-10, egg-schedule.log.2019-11-10, egg-web.log.2019-11-10
+2019-12-12 10:19:39,900 INFO 6523 [egg-logrotator] clean all log before 31 days
+2019-12-12 10:19:40,883 INFO 6523 [egg-logrotator] broadcast log-reload
+2019-12-12 10:19:40,883 INFO 6523 [egg-logrotator] rotate files success by DayRotator, files ["/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/common-error.log.2019-12-11","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-demo-web.log.2019-12-11","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-web.log.2019-12-11","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-schedule.log.2019-12-11","/Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log -> /Users/alanj/Desktop/myprojects/egg-demo/logs/egg-demo/egg-agent.log.2019-12-11"]
